@@ -1,6 +1,6 @@
 import { Image, StyleSheet, Text, View } from "react-native";
 
-import macbook from "../../public/images/macbook.jpeg";
+import macbook from "../assets/images/macbook.jpeg";
 
 export default function StylingReactNativeComponent() {
   return (

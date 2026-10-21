@@ -1,14 +1,22 @@
 import { ScrollView, View } from "react-native";
 
-import FlexBox from "@/components/FlexboxComponent";
+import PropsComponent from "@/components/PropsComponent";
 
 export default function App() {
+  // const [isShow, SetIsShow] = useState(true);
+  // useEffect(() => {
+  //   setTimeout(() => {
+  //     SetIsShow(false);
+  //   }, 6000);
+  // }, []);
   return (
     <View>
       <ScrollView>
         {/* <SampleComponent />
         <StylingReactNativeComponent /> */}
-        <FlexBox />
+        {/* <FlexBox /> */}
+        {/* <PositionComponent /> */}
+        <PropsComponent />
       </ScrollView>
     </View>
   );
