@@ -1,6 +1,5 @@
 import { ScrollView, View } from "react-native";
-
-import PropsComponent from "@/components/PropsComponent";
+import PostData from "./pages/PostData/PostData";
 
 export default function App() {
   // const [isShow, SetIsShow] = useState(true);
@@ -12,11 +11,16 @@ export default function App() {
   return (
     <View>
       <ScrollView>
-        {/* <SampleComponent />
-        <StylingReactNativeComponent /> */}
+        {/* <SampleComponent /> */}
+        {/* <StylingReactNativeComponent /> */}
         {/* <FlexBox /> */}
         {/* <PositionComponent /> */}
-        <PropsComponent />
+        {/* <PropsComponent /> */}
+
+        {/* <BasicJavascript /> */}
+        {/* <ReactNativeSVG /> */}
+
+        <PostData />
       </ScrollView>
     </View>
   );

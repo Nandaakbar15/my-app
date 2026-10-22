@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 125">
+  <!-- Server body -->
+  <rect x="10" y="10" width="224" height="105" rx="8" fill="#e8f4f8" stroke="#2980b9" stroke-width="2"/>
+
+  <!-- Server rack units -->
+  <rect x="20" y="22" width="204" height="22" rx="4" fill="#3498db"/>
+  <rect x="20" y="50" width="204" height="22" rx="4" fill="#3498db"/>
+  <rect x="20" y="78" width="204" height="22" rx="4" fill="#3498db"/>
+
+  <!-- Status LEDs -->
+  <circle cx="210" cy="33" r="4" fill="#2ecc71"/>
+  <circle cx="220" cy="33" r="4" fill="#2ecc71"/>
+  <circle cx="210" cy="61" r="4" fill="#2ecc71"/>
+  <circle cx="220" cy="61" r="4" fill="#f39c12"/>
+  <circle cx="210" cy="89" r="4" fill="#2ecc71"/>
+  <circle cx="220" cy="89" r="4" fill="#2ecc71"/>
+
+  <!-- Drive slots -->
+  <rect x="30" y="28" width="30" height="12" rx="2" fill="#1a6fa0"/>
+  <rect x="65" y="28" width="30" height="12" rx="2" fill="#1a6fa0"/>
+  <rect x="100" y="28" width="30" height="12" rx="2" fill="#1a6fa0"/>
+
+  <rect x="30" y="56" width="30" height="12" rx="2" fill="#1a6fa0"/>
+  <rect x="65" y="56" width="30" height="12" rx="2" fill="#1a6fa0"/>
+  <rect x="100" y="56" width="30" height="12" rx="2" fill="#1a6fa0"/>
+
+  <!-- Heart on top-right -->
+  <text x="170" y="20" font-size="16" fill="#e74c3c">♥</text>
+</svg>
