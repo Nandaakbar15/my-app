@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Alvinda Akbar Geannasech",
+      "email": "alvindaakbar@gmail.com",
+      "job": "Software Engineer",
+      "id": "1"
+    },
+    {
+      "name": "Yu Narukami",
+      "email": "narukamiyu@gmail.com",
+      "job": "Digital Marketing",
+      "id": "M3B5fAzBP34"
+    },
+    {
+      "name": "Kenshin Himura",
+      "email": "himurakenshin@gmail.com",
+      "job": "Dojo Instructor",
+      "id": "9Pj5tSFNMco"
+    },
+    {
+      "name": "Makoto Yuki",
+      "email": "yukimakoto@gmail.com",
+      "job": "Backend Developer",
+      "id": "-aOEaRBDmic"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

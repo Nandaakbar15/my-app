@@ -1,5 +1,5 @@
 import { ScrollView, View } from "react-native";
-import PostData from "./pages/PostData/PostData";
+import AddPostsData from "./pages/PostData/AddPostData";
 
 export default function App() {
   // const [isShow, SetIsShow] = useState(true);
@@ -20,7 +20,8 @@ export default function App() {
         {/* <BasicJavascript /> */}
         {/* <ReactNativeSVG /> */}
 
-        <PostData />
+        {/* <PostData /> */}
+        <AddPostsData />
       </ScrollView>
     </View>
   );
